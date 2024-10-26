@@ -1,4 +1,4 @@
 cp /home/maks/Загрузки/Factorio_Linux/factorio-space-age_linux_2.0.8/factorio/saves/aboba_base.zip /home/maks/Factorio_save_script/
 git add .
 git commit -m 'save'
-git push origin master
+git push origin main
